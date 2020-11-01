@@ -5,3 +5,6 @@
 
 ## Librarys:
 ### Import random
+
+## src:
+### https://docs.python.org/3/library/random.html#module-random
